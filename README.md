@@ -1,4 +1,4 @@
-# my-new-project
+# Food Shopping Cart
 
 ## Project setup
 ```
